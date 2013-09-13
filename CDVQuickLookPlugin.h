@@ -2,7 +2,7 @@
 //  CDVQuickLookPlugin.h
 //  quickLookFile
 //
-//  Created by Mark van den Bergh, September 10th 2013.
+//  Copyright (c) 2013 Mark van den Bergh
 //
 //  You may use this code under the terms of the MIT License.
 //
